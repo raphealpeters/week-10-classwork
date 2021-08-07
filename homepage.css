@@ -1,0 +1,32 @@
+body{
+    background-color: #76e2c5;
+}
+.navbar{
+    justify-content: flex-end;
+    background-color: #0e3e31;  
+}
+.nav-item{
+    text-decoration: none;
+    color: #ffff;
+}
+h1{
+    color: #0e3e31;
+    font-family:'Lexend Deca', sans-serif ;
+    font-weight: bolder;
+    /* display: inline-block; */
+}
+.content{
+    padding: 50px;
+}
+button{
+    border-style: none;
+    border-radius: 20px;
+    padding: 20px;
+    color:#ffff ;
+    background-color: #0e3e31;
+    margin-left: 55px;
+}
+.paragraph{
+    color: #0e3e31;
+    font-weight: lighter;
+}
